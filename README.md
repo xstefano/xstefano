@@ -1,9 +1,11 @@
-## Hi 👋, I am Andres Stefano 
+<h1 align="center">Hi 👋, I'm Andres Stefano</h1>
+<h3 align="center">A passionate fullstack developer</h3>
  <div>
     <a href="https://github.com/xstefano">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xstefano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xstefano&layout=compact&langs_count=16&theme=dracula"/>
 <div style="display: inline_block"><br>
+    <h3 align="left">Languages and Tools:</h3>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50"/> 
     </a>
@@ -23,7 +25,7 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" align="center" width="50" height="50"/> 
     </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="center" width="50" height="50"/>     
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="center" width="50" height="50"/>   
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" width="50" height="50"/> 
